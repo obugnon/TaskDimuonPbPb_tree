@@ -1,0 +1,9 @@
+*~
+*.o
+*.d
+*.so
+*.root
+*.xml
+*.pcm
+*.vscode
+*.DS_Store
